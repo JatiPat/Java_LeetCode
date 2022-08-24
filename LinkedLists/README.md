@@ -8,4 +8,4 @@
 1. https://leetcode.com/problems/sort-list/
 1. https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 1. https://leetcode.com/problems/partition-list/submissions/
-1.
+1. https://leetcode.com/problems/remove-linked-list-elements/
