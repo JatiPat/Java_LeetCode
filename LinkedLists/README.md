@@ -4,3 +4,8 @@
 1. https://leetcode.com/problems/middle-of-the-linked-list/
 1. https://leetcode.com/problems/odd-even-linked-list/
 1. https://leetcode.com/problems/palindrome-linked-list/
+1. https://leetcode.com/problems/intersection-of-two-linked-lists/
+1. https://leetcode.com/problems/sort-list/
+1.
+1.
+1.
